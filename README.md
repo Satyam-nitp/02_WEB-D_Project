@@ -44,5 +44,4 @@ This project is open-source and free to use for any purpose.
 
 ---
 
-*Created with ❤️ by [Satyam](https://github.com/your-username).*# 02_WEB-D_Project
-# 02_WEB-D_Project
+*Created with ❤️ by [Satyam](https://github.com/Satyam-nitp).*
