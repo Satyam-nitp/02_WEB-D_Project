@@ -93,6 +93,13 @@ button:hover{
     align-items: center;
     position: relative;
     gap: 10px;
+    transform: translateX(100%);
+    animation: moveleft 0.35s ease forwards;
+}
+@keyframes moveleft {
+    100%{
+        transform: translateX(0);
+    }
 }
 
 .bottom{
